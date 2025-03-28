@@ -26,8 +26,8 @@ Welcome to my Github profile! I'm an aspiring Front-end developer currently lear
 
 ### 🔝 Top Contributed Repo
 
-https://github.com/Amahle140/Module_04_AMASIG25123_fto2502_b_Amahle-Siguca_SDF02.git
-![](https://github-contributor-stats.vercel.app/api?username=Amahle140&limit=5&theme=onedark&combine_all_yearly_contributions=true)
+!https://github.com/Amahle140/Module_04_AMASIG25123_fto2502_b_Amahle-Siguca_SDF02.git
+
 
 ---
 
