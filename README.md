@@ -5,7 +5,7 @@ Welcome to my Github profile! I'm an aspiring Front-end developer currently lear
 ## About Me
 
 - Student at CodeSpace Academy 🎓.
-- Currently learning and practising front-end development and soon to start JavaSript 💻.
+- Currently learning and practising front-end development and React& JavaSript 💻.
 - Passionate about creating clean and responsive web interfaces 🤖.
 - Eager to collaborate and contribute to exciting projects 🤝.
 
