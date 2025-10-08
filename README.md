@@ -4,6 +4,7 @@ Welcome to my GitHub profile!
 I'm an aspiring Front-End Developer recently graduated in CodeSpace Academy, where I have  learnt to build modern, responsive, and user-friendly web applications.
 
 🌱 About Me
+
 🎓  CodeSpace Academy Alluminum – front-end Developer.
 💻 Learning and practising HTML, CSS, Tailwind CSS, JavaScript, and React.js.
 ⚙️ Interested in UI frameworks, React components, event handling, and fetching API data using useEffect.
