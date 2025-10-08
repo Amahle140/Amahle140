@@ -6,10 +6,15 @@ I'm an aspiring Front-End Developer recently graduated in CodeSpace Academy, whe
 🌱 About Me
 
 🎓  CodeSpace Academy Alluminum – front-end Developer.
+
 💻 Learning and practising HTML, CSS, Tailwind CSS, JavaScript, and React.js.
+
 ⚙️ Interested in UI frameworks, React components, event handling, and fetching API data using useEffect.
+
 🧠 Developing skills in abstraction, SOLID principles, and clean coding practices.
+
 🤖 Passionate about creating clean, accessible, and responsive web interfaces.
+
 🤝 Excited to collaborate on creative projects and contribute to open-source development.
 
 
