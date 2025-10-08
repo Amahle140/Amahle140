@@ -1,13 +1,15 @@
-## Hi there 👋I'm Amahle Siguca
+Hi there 👋 I'm Amahle Siguca
 
-Welcome to my Github profile! I'm an aspiring Front-end developer currently learning HTML,CSS and Tailwind CSS at CodeSpace Academy.
+Welcome to my GitHub profile!
+I'm an aspiring Front-End Developer recently graduated in CodeSpace Academy, where I have  learnt to build modern, responsive, and user-friendly web applications.
 
-## About Me
-
-- Student at CodeSpace Academy 🎓.
-- Currently learning and practising front-end development and React& JavaSript 💻.
-- Passionate about creating clean and responsive web interfaces 🤖.
-- Eager to collaborate and contribute to exciting projects 🤝.
+🌱 About Me
+🎓  CodeSpace Academy Alluminum – front-end Developer.
+💻 Learning and practising HTML, CSS, Tailwind CSS, JavaScript, and React.js.
+⚙️ Interested in UI frameworks, React components, event handling, and fetching API data using useEffect.
+🧠 Developing skills in abstraction, SOLID principles, and clean coding practices.
+🤖 Passionate about creating clean, accessible, and responsive web interfaces.
+🤝 Excited to collaborate on creative projects and contribute to open-source development.
 
 
 ## 🌐 Let's connect 
@@ -26,7 +28,7 @@ Welcome to my Github profile! I'm an aspiring Front-end developer currently lear
 
 ### 🔝 Top Contributed Repo
 
-!https://github.com/Amahle140/Module_04_AMASIG25123_fto2502_b_Amahle-Siguca_SDF02.git
+https://github.com/Amahle140/AMASIG25123_FTO2505_B_Amahle-Siguca_DJS01.git
 
 
 ---
