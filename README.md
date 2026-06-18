@@ -1,21 +1,38 @@
 Hi there 👋 I'm Amahle Siguca
 
 Welcome to my GitHub profile!
-I'm an aspiring Front-End Developer recently graduated in CodeSpace Academy, where I have  learnt to build modern, responsive, and user-friendly web applications.
 
-🌱 About Me
+ I'm an aspiring Software Developer with a strong foundation in Front-End Development and a growing interest in Artificial Intelligence. I enjoy building modern responsive, and user-friendly web applications while continuously expanding my technical skills.
+  
+## 🌱 About Me
 
-🎓  CodeSpace Academy Alluminum – front-end Developer.
+🎓 Graduate of CodeSpace Academy with a focus on Front-End Development.
 
-💻 Learning and practising HTML, CSS, Tailwind CSS, JavaScript, and React.js.
+🤖 Completed an AI Bootcamp, where I gained hands-on experience working with AI concepts, tools, and problem-solving techniques.
 
-⚙️ Interested in UI frameworks, React components, event handling, and fetching API data using useEffect.
+💻 Skilled in HTML, CSS, Tailwind CSS, JavaScript, and React.js.
 
-🧠 Developing skills in abstraction, SOLID principles, and clean coding practices.
+⚙️ Experienced in building responsive user interfaces, reusable React components, event handling, and fetching API data using `useEffect`.
 
-🤖 Passionate about creating clean, accessible, and responsive web interfaces.
+🧠 Passionate about clean code, abstraction, SOLID principles, and creating accessible digital experiences.
 
-🤝 Excited to collaborate on creative projects and contribute to open-source development.
+🚀 Eager to apply my skills to real-world projects, collaborate with other developers, and continue growing in software development and AI.
+
+## 🛠️ Technologies & Tools
+
+* HTML5
+* CSS3
+* Tailwind CSS
+* JavaScript (ES6+)
+* React.js
+* Git & GitHub
+* Artificial Intelligence Fundamentals
+
+## 📫 Let's Connect
+
+I'm open to internships, entry-level opportunities, collaborations, and projects that allow me to learn, contribute, and grow as a developer.
+
+
 
 
 ## 🌐 Let's connect 
