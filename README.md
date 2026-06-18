@@ -28,8 +28,6 @@ Welcome to my GitHub profile!
 * Git & GitHub
 * Artificial Intelligence Fundamentals
 
-## 📫 Let's Connect
-
 I'm open to internships, entry-level opportunities, collaborations, and projects that allow me to learn, contribute, and grow as a developer.
 
 
